@@ -8,6 +8,8 @@ int main() {
     // receive stair height and store it into height variable.
     scanf("%d", &height);
     double_mauro(height);
+    
+    return 0;
 }
 
 void double_mauro(int height) {
