@@ -7,6 +7,8 @@ int main() {
     printf("Height --> ");
     scanf("%d", &height);
     mauro(height);
+    
+    return 0;
 }
 
 void mauro(int height) {
